@@ -1,4 +1,9 @@
-# init_3_NLP_project_r1
+# Init_3 NLP Project: Round 1
+Team Members:
+1. Ajitesh Saxena
+2. Siddhant Bhatnagar
+3. Kushagra Chaturvedy
+
 This repository contains the jupyter notebook and the corresponding .txt files used for the Data Analysis and Part of Speech tagging.
 
 
