@@ -71,7 +71,7 @@ Thus, we now have two sets of tokens for each book, one with stop-words and one 
 1. **nltk.tokenize.word\_tokenize:** used to convert a string of words to a list of tokens
 2. **nltk.tokenize.sent\_tokenize:** used to break the corpus into sentences, which are then used for part of speech tagging
 3. **nltk.corpus.stopwords:** contains a predefined list of stop-words for different languages.
-4. **ntlk.corpus.treebank:** used to implement Penn&#39;s treebank part of speech tagging.
+4. **ntlk.pos_tag:** used to implement Penn&#39;s treebank part of speech tagging.
 
 1. **collections.Counter:** used to count hashable objects, which are tokens in this case. Basically, it counts number of each token and puts the count of each token corresponding to it in a map, i.e. a key-value pair.
 
